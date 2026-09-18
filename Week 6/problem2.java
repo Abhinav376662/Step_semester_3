@@ -32,7 +32,7 @@ class MessWallet {
     }
 }
 
-public class M2_MessWallet {
+public class Problem2 {
     public static void main(String[] args) {
         MessWallet wallet = new MessWallet(500);
         wallet.topUp(200);
