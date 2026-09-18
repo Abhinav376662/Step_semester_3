@@ -14,7 +14,7 @@ class PlacementRecord {
     }
 }
 
-public class M1_PlacementRecord {
+public class Problem1 {
     public static void main(String[] args) {
         PlacementRecord[] records = new PlacementRecord[3];
         records[0] = new PlacementRecord("Ravi", "TCS", 4.5);
