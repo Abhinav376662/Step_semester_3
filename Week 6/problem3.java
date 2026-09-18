@@ -20,7 +20,7 @@ class Course {
     }
 }
 
-public class M3_CourseCredit {
+public class Problem3 {
     public static void main(String[] args) {
         Course theoryCourse = new Course("21CSC201J", "Data Structures", 4);
         Course labCourse = new Course("21CSC205L", "DSA Lab", 3, 1);
